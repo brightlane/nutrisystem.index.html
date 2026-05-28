@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /build.py
+Disallow: /.github/
+Crawl-delay: 1
+Sitemap: https://brightlane.github.io/nutrisystem.index.html/sitemap.xml
